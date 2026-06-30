@@ -1,0 +1,62 @@
+[
+    {
+        "city": "Delhi",
+        "location": "Anand Vihar",
+        "pm25": 285,
+        "pm10": 420
+    },
+    {
+        "city": "Mumbai",
+        "location": "Bandra",
+        "pm25": 48,
+        "pm10": 82
+    },
+    {
+        "city": "Chennai",
+        "location": "Anna Nagar",
+        "pm25": 22,
+        "pm10": 40
+    },
+    {
+        "city": "Kolkata",
+        "location": "Rabindra Sarobar",
+        "pm25": 68,
+        "pm10": 115
+    },
+    {
+        "city": "Bengaluru",
+        "location": "Whitefield",
+        "pm25": 15,
+        "pm10": 30
+    },
+    {
+        "city": "Hyderabad",
+        "location": "Gachibowli",
+        "pm25": 102,
+        "pm10": 165
+    },
+    {
+        "city": "Pune",
+        "location": "Shivajinagar",
+        "pm25": 38,
+        "pm10": 72
+    },
+    {
+        "city": "Lucknow",
+        "location": "Gomti Nagar",
+        "pm25": 165,
+        "pm10": 248
+    },
+    {
+        "city": "Ahmedabad",
+        "location": "Navrangpura",
+        "pm25": 58,
+        "pm10": 96
+    },
+    {
+        "city": "Patna",
+        "location": "Boring Road",
+        "pm25": 215,
+        "pm10": 335
+    }
+]
